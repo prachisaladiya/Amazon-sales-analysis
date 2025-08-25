@@ -21,8 +21,8 @@
 - **SQL** – Analysis queries  
 - **Power BI** – Interactive dashboards & insights
 
-## Dashboard Highlights
-![Dashboard]()
+## Dashboard Preview
+[Dashboard](https://github.com/prachisaladiya/Amazon-sales-analysis/blob/main/Sales%20Dashboard.png)
 
 ## Insights
 1. Expedited shipping shows lower cancellation rates (6.64%) compared to standard shipping (13.72%), suggesting faster delivery reduces churn.
